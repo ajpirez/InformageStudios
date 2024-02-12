@@ -12,4 +12,3 @@
     - Cuando un usuario se crea por defecto es comprador
     - Los administradoes pueden ascender a un usuario a administrador
 - Se adjunta un archivo de postman con las rutas y los parametros que se deben enviar
-- No se agregaron tests para entregar la solucion lo antes posible
